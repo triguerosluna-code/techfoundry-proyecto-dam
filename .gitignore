@@ -1,0 +1,16 @@
+# Compilados de Java
+*.class
+*.jar
+*.war
+
+# Carpetas de construccion e IDEs
+target/
+build/
+.gradle/
+.idea/
+*.iml
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
